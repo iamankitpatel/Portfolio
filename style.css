@@ -48,7 +48,6 @@
     border-radius: 25px;
     padding: 5px 5px 5px 12px;
     width: fit-content;
-    float: right;
 }
 
 .email-box input{
@@ -67,6 +66,7 @@
     outline: none;
     border: none;
     box-shadow: 5px 5px 20px #252525;
+    float: right;
 }
 
 .email-btn-pri:hover{
