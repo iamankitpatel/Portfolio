@@ -103,6 +103,8 @@
     margin: 0px 7px;
     font-size: 20px;
     border: solid 1.5px #ff006f;
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .social-icon:hover{
