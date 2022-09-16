@@ -277,3 +277,8 @@ ul#menu li {
         padding: 50px 25px !important;
     }
 }
+
+.text-justified {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+}
