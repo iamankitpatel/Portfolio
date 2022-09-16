@@ -285,5 +285,6 @@ ul#menu li {
 }
 
 .heading{
-    size: 2.5rem !important;
+    size: 3rem !important;
+    font-weight: 700 !important;
 }
