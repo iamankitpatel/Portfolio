@@ -7,7 +7,7 @@
 }
 
 .text-pri{
-    color: #ef0058;
+    color: #ff006f;
 }
 
 .text-sec{
@@ -16,7 +16,7 @@
 
 .btn-pri{
     color: #FFFFFF;
-    background-color: #ef0058;
+    background-color: #ff006f;
     border-radius: 25px;
     padding: 7px 28px;
     text-decoration: none;
@@ -26,9 +26,9 @@
 }
 
 .btn-pri:hover{
-    color: #ef0058;
+    color: #ff006f;
     background-color: #222222;
-    border: solid 1.5px #ef0058;
+    border: solid 1.5px #ff006f;
 }
 
 .name-heading{
@@ -59,7 +59,7 @@
 
 .email-btn-pri{
     color: #FFFFFF;
-    background-color: #ef0058;
+    background-color: #ff006f;
     border-radius: 25px;
     padding: 7px 28px;
     text-decoration: none;
@@ -70,7 +70,7 @@
 }
 
 .email-btn-pri:hover{
-    color: #ef0058;
+    color: #ff006f;
     background-color: #000000;
 }
 
@@ -98,18 +98,18 @@
 .social-icon{
     padding: 5px 7px;
     border-radius: 25px;
-    background-color: #ef0058;
+    background-color: #ff006f;
     margin: 0px 7px;
     font-size: 20px;
-    border: solid 1.5px #ef0058;
+    border: solid 1.5px #ff006f;
     text-decoration: none;
     color: #ffffff;
 }
 
 .social-icon:hover{
     background-color: #000000;
-    border: solid 1.5px #ef0058;
-    color: #ef0058;
+    border: solid 1.5px #ff006f;
+    color: #ff006f;
 }
 
 /* WhatsApp Popup */
@@ -151,7 +151,7 @@
     padding: 8px 10px;
     border-radius: 25px;
     color: #ffffff;
-    background-color: #ef0058;
+    background-color: #ff006f;
     font-size: 27px;
     border: solid 1.5px #333333;
 }
@@ -172,11 +172,11 @@
 
 .btn-contact{
     color: #FFFFFF;
-    background-color: #ef0058;
+    background-color: #ff006f;
     border-radius: 25px;
     padding: 7px 28px;
     text-decoration: none;
-    border: solid 1.5px #ef0058;
+    border: solid 1.5px #ff006f;
     font-weight: 400;
     box-shadow: 4px 4px 10px #d7d7d7;
 }
@@ -187,7 +187,7 @@
 }
 
 .text-white1:hover{
-    color: #ef0058 !important;
+    color: #ff006f !important;
 }
 
 .logo{
@@ -212,7 +212,7 @@
 }
 
 .menu-list a:hover{
-    color: #ef0058;
+    color: #ff006f;
 }
 
 ul#menu li {
@@ -282,4 +282,8 @@ ul#menu li {
 .text-justified {
   text-align: justify !important;
   text-justify: inter-word !important;
+}
+
+.heading{
+    size: 2.5rem !important;
 }
