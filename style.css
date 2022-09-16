@@ -22,7 +22,8 @@
     text-decoration: none;
     border: solid 1.5px #222222;
     box-shadow: 5px 5px 20px #252525;
-    font-weight: 400;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 
 .btn-pri:hover{
