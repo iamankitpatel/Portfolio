@@ -283,3 +283,8 @@ ul#menu li {
   text-align: justify !important;
   text-justify: inter-word !important;
 }
+
+.heading{
+    font-size: 2rem !important;
+    font-weight: 700 !important;
+}
