@@ -22,7 +22,7 @@
     text-decoration: none;
     border: solid 1.5px #222222;
     box-shadow: 5px 5px 20px #252525;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 500;
 }
 
@@ -68,6 +68,8 @@
     border: none;
     box-shadow: 5px 5px 20px #252525;
     float: right;
+    font-size: 1.1rem;
+    font-weight: 500;
 }
 
 .email-btn-pri:hover{
