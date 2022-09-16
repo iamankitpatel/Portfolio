@@ -1,0 +1,264 @@
+.bg-pri{
+    background-color: #000000;
+}
+
+.bg-sec{
+    background-color: #222222;
+}
+
+.text-pri{
+    color: #ff006f;
+}
+
+.text-sec{
+    color: #c9c9c9;
+}
+
+.btn-pri{
+    color: #FFFFFF;
+    background-color: #ff006f;
+    border-radius: 25px;
+    padding: 7px 28px;
+    text-decoration: none;
+    border: solid 1.5px #222222;
+    box-shadow: 5px 5px 20px #252525;
+    font-weight: 400;
+}
+
+.btn-pri:hover{
+    color: #ff006f;
+    background-color: #222222;
+    border: solid 1.5px #ff006f;
+}
+
+.name-heading{
+    font-size: 75px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+@media (max-width:576px) {
+    .mob-mt-25{
+        margin-top: 50px !important;
+    }
+}
+
+.email-box{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 5px 5px 5px 12px;
+    width: fit-content;
+}
+
+.email-box input{
+    border: none;
+    padding: 5px;
+    outline: none;
+    width: min-content;
+}
+
+.email-btn-pri{
+    color: #FFFFFF;
+    background-color: #ff006f;
+    border-radius: 25px;
+    padding: 7px 28px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    box-shadow: 5px 5px 20px #252525;
+}
+
+.email-btn-pri:hover{
+    color: #ff006f;
+    background-color: #000000;
+}
+
+.rounded-start-4{
+    border-radius: 20px 0px 0px 20px;
+}
+
+.rounded-end-4{
+    border-radius: 0px 20px 20px 0px;
+}
+
+
+@media (max-width:576px) {
+    .mob-rounded-top-4{
+        border-radius: 0px 0px 20px 20px;
+    }
+}
+
+@media (max-width:576px) {
+    .mob-rounded-bottom-4{
+        border-radius: 20px 20px 0px 0px;
+    }  
+}
+
+.social-icon{
+    padding: 5px 7px;
+    border-radius: 25px;
+    color: ;
+    background-color: #ff006f;
+    margin: 0px 7px;
+    font-size: 20px;
+    border: solid 1.5px #ff006f;
+}
+
+.social-icon:hover{
+    background-color: #000000;
+    border: solid 1.5px #ff006f;
+    color: #ff006f;
+}
+
+/* WhatsApp Popup */
+.whatsapp-popup{
+    width: 3.5rem;
+    margin:1.5rem;
+    float: right !important;
+  }
+  
+  .fixed-bottom1 {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 1030;
+  }
+
+  img.vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+  }
+  
+  @-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+  }
+  
+/* Contact Us */  
+
+
+.pill-box{
+    background-color: #000000;
+    border-radius: 50px;
+    color: #ffffff;
+    padding: 7px 7px 0px 7px;
+    margin: 12px 0px;
+}
+
+.contact-icon{
+    padding: 8px 10px;
+    border-radius: 25px;
+    color: #ffffff;
+    background-color: #ff006f;
+    font-size: 27px;
+    border: solid 1.5px #333333;
+}
+
+.contact-icon:hover{
+    background-color: #333333;
+}
+
+.contact-input{
+    outline: none;
+    border: solid 1px #333333;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 15px;
+    width: 100%;
+    margin: 5px 0px;
+}
+
+.btn-contact{
+    color: #FFFFFF;
+    background-color: #ff006f;
+    border-radius: 25px;
+    padding: 7px 28px;
+    text-decoration: none;
+    border: solid 1.5px #ff006f;
+    font-weight: 400;
+    box-shadow: 4px 4px 10px #d7d7d7;
+}
+
+.text-white1{
+    color: #ffffff !important;
+    text-decoration: none;
+}
+
+.text-white1:hover{
+    color: #ff006f !important;
+}
+
+.logo{
+    padding: 12px 8px;
+    background-color: #222222;
+    border-radius: 50px;
+    border: 12px solid #333333;
+    box-shadow: 5px 5px 10px #242424;
+    z-index: 1;
+    float: left;
+}
+
+.nav-list{
+    list-style-type: none;
+    float: right;
+}
+
+.menu-list a{
+    text-decoration: none;
+    color: #c9c9c9;
+    padding: 0px 25px;
+}
+
+.menu-list a:hover{
+    color: #ff006f;
+}
+
+ul#menu li {
+    display:inline;
+  }
+
+@media (min-width:575px) {
+    .neg-mt{
+        margin-top: -90px;
+    }
+}
+
+@media (max-width:576px) {
+    .mob-hide{
+        display: none;
+    }
+}
+
+@media (max-width:576px) {
+    .mob-mt-5{
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:576px) {
+    .mob-flex-reverse{
+        display: flex;
+        flex-flow: column-reverse;
+    }
+}
+
+@media (max-width:576px) {
+    .mob-text-center{
+        text-align: center;
+    }
+}
+
+@media (max-width:576px) {
+    .mob-image-center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width:576px) {
+    .btn-center{
+        display: flex;
+        justify-content: center;
+    }
+}
