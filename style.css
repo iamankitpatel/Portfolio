@@ -47,12 +47,14 @@
     background-color: #ffffff;
     border-radius: 25px;
     padding: 5px 5px 5px 12px;
+    width: fit-content;
 }
 
 .email-box input{
     border: none;
     padding: 5px;
     outline: none;
+    width: 50%
 }
 
 .email-btn-pri{
