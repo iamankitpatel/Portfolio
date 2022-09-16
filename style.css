@@ -7,7 +7,7 @@
 }
 
 .text-pri{
-    color: #ff006f;
+    color: #ef0058;
 }
 
 .text-sec{
@@ -16,7 +16,7 @@
 
 .btn-pri{
     color: #FFFFFF;
-    background-color: #ff006f;
+    background-color: #ef0058;
     border-radius: 25px;
     padding: 7px 28px;
     text-decoration: none;
@@ -26,9 +26,9 @@
 }
 
 .btn-pri:hover{
-    color: #ff006f;
+    color: #ef0058;
     background-color: #222222;
-    border: solid 1.5px #ff006f;
+    border: solid 1.5px #ef0058;
 }
 
 .name-heading{
@@ -59,7 +59,7 @@
 
 .email-btn-pri{
     color: #FFFFFF;
-    background-color: #ff006f;
+    background-color: #ef0058;
     border-radius: 25px;
     padding: 7px 28px;
     text-decoration: none;
@@ -70,7 +70,7 @@
 }
 
 .email-btn-pri:hover{
-    color: #ff006f;
+    color: #ef0058;
     background-color: #000000;
 }
 
@@ -98,18 +98,18 @@
 .social-icon{
     padding: 5px 7px;
     border-radius: 25px;
-    background-color: #ff006f;
+    background-color: #ef0058;
     margin: 0px 7px;
     font-size: 20px;
-    border: solid 1.5px #ff006f;
+    border: solid 1.5px #ef0058;
     text-decoration: none;
     color: #ffffff;
 }
 
 .social-icon:hover{
     background-color: #000000;
-    border: solid 1.5px #ff006f;
-    color: #ff006f;
+    border: solid 1.5px #ef0058;
+    color: #ef0058;
 }
 
 /* WhatsApp Popup */
@@ -151,7 +151,7 @@
     padding: 8px 10px;
     border-radius: 25px;
     color: #ffffff;
-    background-color: #ff006f;
+    background-color: #ef0058;
     font-size: 27px;
     border: solid 1.5px #333333;
 }
@@ -172,11 +172,11 @@
 
 .btn-contact{
     color: #FFFFFF;
-    background-color: #ff006f;
+    background-color: #ef0058;
     border-radius: 25px;
     padding: 7px 28px;
     text-decoration: none;
-    border: solid 1.5px #ff006f;
+    border: solid 1.5px #ef0058;
     font-weight: 400;
     box-shadow: 4px 4px 10px #d7d7d7;
 }
@@ -187,7 +187,7 @@
 }
 
 .text-white1:hover{
-    color: #ff006f !important;
+    color: #ef0058 !important;
 }
 
 .logo{
@@ -212,7 +212,7 @@
 }
 
 .menu-list a:hover{
-    color: #ff006f;
+    color: #ef0058;
 }
 
 ul#menu li {
