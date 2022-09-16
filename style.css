@@ -48,6 +48,7 @@
     border-radius: 25px;
     padding: 5px 5px 5px 12px;
     width: fit-content;
+    float: right;
 }
 
 .email-box input{
