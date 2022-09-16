@@ -268,11 +268,11 @@ ul#menu li {
 }
 
 .contact-p25{
-        padding: 50px 50px;
+        padding: 50px 50px !important;
     }
 
 @media (max-width:576px) {
     .mob-contact-p25{
-        padding: 50px 20px;
+        padding: 50px 20px !important;
     }
 }
