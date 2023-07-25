@@ -1,6 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .container-xxl{
-    max-width: 1600px; !important
-    width: 100%;
+    max-width: 1900px !important;
 }
 
 .bg-pri{
@@ -104,17 +108,32 @@
 }
 
 .social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.social-icon ul{
+    text-decoration: none;
+}
+
+.social-icon ul li{
+    display: inline-block;
+}
+
+.social-icon ul li a i{
     padding: 5px 7px;
     border-radius: 25px;
     background-color: #ff006f;
-    margin: 0px 7px;
+    margin-right:7px;
     font-size: 20px;
     border: solid 1.5px #ff006f;
     text-decoration: none;
     color: #ffffff;
 }
 
-.social-icon:hover{
+.social-icon ul li a i:hover{
     background-color: #000000;
     border: solid 1.5px #ff006f;
     color: #ff006f;
